@@ -43,6 +43,12 @@
       "desc": "Fast traveling to a nearby location takes the equivalent time of running (instead of 1-2 hours)."
     },
     {
+      "name": "Acquisitive Soul Gems Multithreaded",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/1469",
+      "flags": [],
+      "desc": "Prevents unfilling a soul gem with a weaker soul. "
+    },
+    {
       "name": "Weapons Armor Clothing and Clutter Fixes",
       "url": "https://www.nexusmods.com/skyrimspecialedition/mods/18994",
       "flags": [],
@@ -441,208 +447,130 @@
   ],
   "ui_information": [
     {
-      "name": "Guess the Distance - Perceptive Scouting",
-      "url": "http://www.nexusmods.com/skyrim/mods/30816",
-      "flags": [4],
-      "desc": "Use &quot;Guess Distance&quot; power to perceive opponent&apos;s distance, experience, aggression level, armor, race and weapon (configurable). Amount of information depends on distance and visibility."
-    },
-    {
-      "name": "BorderSense",
-      "url": "http://www.nexusmods.com/skyrim/mods/35718",
+      "name": "BorderSense SE",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/25292",
       "flags": [],
       "desc": "Your character will note when crossing the border into a new hold and (optional) remark if you have a bounty in that hold."
     },
     {
       "name": "Hold Border Banners",
-      "url": "http://www.nexusmods.com/skyrim/mods/43493",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/1737",
       "flags": [],
       "desc": "Adds banners along roadsides at the boundaries of two holds."
     },
     {
       "name": "Improved Container Names",
-      "url": "http://www.nexusmods.com/skyrim/mods/9871",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/42417",
       "flags": [],
       "desc": "Makes container names more informative - &quot;sack&quot; becomes &quot;sack of produce&quot;."
     },
     {
-      "name": "BLESSINGS - Altar Descriptions",
-      "url": "http://www.nexusmods.com/skyrim/mods/16887",
+      "name": "Better Skill and Quest Books Names SE",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/5260",
       "flags": [],
-      "desc": "Improves descriptions of the altars of the nine Gods - &quot;Activate Shrine of Mara&quot; becomes &quot;Activate Shrine of Mara (Fortify Restoration)&quot;"
-    },
-    {
-      "name": "Soul Gems Differ - Full and Empty",
-      "url": "http://www.nexusmods.com/skyrim/mods/6335",
-      "flags": [],
-      "desc": "Makes soul gems look different depending on whether they have soul gems in them or not."
-    },
-    {
-      "name": "Better Skill and Quest Books Names",
-      "url": "http://www.nexusmods.com/skyrim/mods/10125",
-      "flags": [5],
       "desc": "Renames books to show the skills associated with them at the beginning of the name."
     },
     {
-      "name": "Improved Skill Books",
-      "url": "http://www.nexusmods.com/skyrim/mods/9960",
-      "flags": [5],
-      "desc": "Renames books to show the skills associated with them at the end of the name."
-    },
-    {
-      "name": "Improved Quest Books",
-      "url": "http://steamcommunity.com/sharedfiles/filedetails/?id=9180",
-      "flags": [5],
-      "desc": "Appends &quot;(Quest)&quot; to the names of books that start quests"
-    },
-    {
-      "name": "Unread Books Glow",
-      "url": "http://www.nexusmods.com/skyrim/mods/10012",
+      "name": "Unread Books Glow SSE",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/1296",
       "flags": [],
       "desc": "Unread books will glow - Adjustable brightness (bright, medium, dim)"
     },
     {
-      "name": "Organized Books",
-      "url": "http://www.nexusmods.com/skyrim/mods/26913",
+      "name": "Dragon Language Book (WIP)",
+      "url": null,
       "flags": [],
-      "desc": "Edits names of books to more clearly denote books in a series e.g. changes &quot;The Wolf Queen, v4&quot; to &quot;Wolf Queen, Vol. 4 of 8&quot;. Also fixes recipes, spell tomes, treasure maps, journals and notes."
-    },
-    {
-      "name": "Linguists of Skyrim - Dragon Translation kit",
-      "url": "http://www.nexusmods.com/skyrim/mods/10428",
-      "flags": [5],
-      "desc": "Adds a stone tablet deciphering the dragon alphabet and 5 books in Hrothgar containing all known words in the Dragon language. Use them to manually translate the stories on the Word Walls, the names of dragon priests and other draugr."
-    },
-    {
-      "name": "Dragon Language Book",
-      "url": "http://www.nexusmods.com/skyrim/mods/27399",
-      "flags": [5],
       "desc": "Adds a book at High Hrothgar explaining the Dragon language. Over 20 pages of instruction and reference."
     },
     {
-      "name": "Race Description Info",
-      "url": "http://www.nexusmods.com/skyrim/mods/6837",
-      "flags": [],
-      "desc": "Adds more information to the race choice menu."
-    },
-    {
       "name": "Point The Way",
-      "url": "http://www.nexusmods.com/skyrim/mods/33393",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/352",
       "flags": [],
       "desc": "Places additional road signs at several major intersections to make destination options more clear."
     },
     {
-      "name": "HiRes Legible Road Signs",
-      "url": "http://www.nexusmods.com/skyrim/mods/436",
-      "flags": [],
-      "desc": "Makes road signs more legible."
-    },
-    {
-      "name": "Real Days and Months",
-      "url": "http://www.nexusmods.com/skyrim/mods/2194",
+      "name": "Real Days and Months (WIP)",
+      "url": null,
       "flags": [],
       "desc": "Uses actual day, month and times to sleep/wait menu e.g. Time Wait screen will say &quot;Monday, 8:00 AM, 17th of August&quot;."
     },
     {
-      "name": "Blitz Console Commands - MCM",
-      "url": "http://www.nexusmods.com/skyrim/mods/30737",
+      "name": "Blitz Console Commands MCM - SSE",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/14071",
       "flags": [],
-      "desc": "Adds an option under Help called &quot;Console Commands&quot; to the in-game pause menu. Lets you browse the list of all console command and their descriptions in-game."
+      "desc": "Adds an option under Help called \"Console Commands\" to the in-game pause menu. Lets you browse the list of all console command and their descriptions in-game."
     },
     {
-      "name": "Console Books",
-      "url": "http://www.nexusmods.com/skyrim/mods/10627",
+      "name": "Console Books (Skyrim Special Edition)",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/898",
       "flags": [],
       "desc": "Adds about 45 books to the game that include all the items ID for all the items in the game."
     },
     {
-      "name": "Skyrim Performance Monitor",
-      "url": "http://www.nexusmods.com/skyrim/mods/6491",
+      "name": "Skyrim Performance Monitor 64",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/3826",
       "flags": [],
       "desc": "Displays Memory Usage and FPS (Frames per Second) information on the top right corner of your screen. Lets you view a graph of performance metrics from game session."
     },
     {
-      "name": "Skyrim -Elys- MemInfo",
-      "url": "http://www.nexusmods.com/skyrim/mods/2006",
-      "flags": [5],
-      "desc": "Displays Memory Usage, FPS (Frames per Second) and other information on the top left corner of your screen."
-    },
-    {
       "name": "STATUS",
-      "url": "http://www.nexusmods.com/skyrim/mods/32657",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/23040",
       "flags": [4, 5],
       "desc": "Displays a variety of game detail information in SkyUI i.e. coordinates, Health, Magicka &amp; Stamina regen rates, speed and damage multipliers, etc."
     }
   ],
   "ui_sounds": [
     {
-      "name": "Sounds of Skyrim - The Wilds",
-      "url": "http://www.nexusmods.com/skyrim/mods/10886",
+      "name": "Sounds of Skyrim Complete SE",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/8286",
       "flags": [],
-      "desc": "Adds over 100 new sound effects to the wilderness. Animal, bird and insect sounds play according to weather, time of day and region. Adds rain impact sounds on tents and wooden structures, rustling bushes to simulate small animals scattering on approach and more."
+      "desc": "Adds over 460 new sound effects to the wilderness. Sounds play according to weather, time of day and region."
     },
     {
-      "name": "Sounds of Skyrim - Civilization",
-      "url": "http://www.nexusmods.com/skyrim/mods/20193",
-      "flags": [],
-      "desc": "Adds over 200 new sound effects to cities, villages, farms, etc. The infamous bloat bug is now fixed!"
-    },
-    {
-      "name": "Sounds of Skyrim - The Dungeons",
-      "url": "http://www.nexusmods.com/skyrim/mods/8601",
-      "flags": [],
-      "desc": "Adds over 100 new sound effects to dungeons. Different sound sets for different types of dungeons. Adds exterior weather sounds to the dungeon entrance."
-    },
-    {
-      "name": "Audio Overhaul for Skyrim",
-      "url": "http://www.nexusmods.com/skyrim/mods/43773",
+      "name": "Audio Overhaul for Skyrim SE",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/12466",
       "flags": [],
       "desc": "Tweaks distance and volume, major improvements to footsteps and destruction magic sounds. Improves traps, creatures, weapons, ambience and more. Adds environment-based reverb."
     },
     {
-      "name": "Immersive Sounds Compendium",
-      "url": "http://www.nexusmods.com/skyrim/mods/54387",
-      "flags": [1, 3],
+      "name": "Immersive Sounds - Compendium",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/523",
+      "flags": [],
       "desc": "A comprehensive sound overhaul. During install, select your choice of sounds for weaponry, magic footsteps, and misc. Multiple options for many sounds. Author recommends using with [Audio Overhaul for Skyrim](http://www.nexusmods.com/skyrim/mods/43773)."
     },
     {
-      "name": "More Sound Options",
-      "url": "http://www.nexusmods.com/skyrim/mods/43773",
+      "name": "More Sound Options (WIP)",
+      "url": "https://www.nexusmods.com/skyrim/mods/40912",
       "flags": [],
-      "desc": "Adds volume controls for vanilla sounds - NPC footsteps, Menu sounds, waterfalls, Weapon draw sounds, etc. Useful for increasing the sound of waterfalls and distant loud noises such as hammering."
+      "desc": "Adds volume controls for vanilla sounds - NPC footsteps, Menu sounds, waterfalls, Weapon draw sounds, etc. Useful for increasing the sound of waterfalls and distant loud noises such as hammering. Compatible with SSE."
     },
     {
-      "name": "Quiet Dungeons",
-      "url": "http://www.nexusmods.com/skyrim/mods/8725",
+      "name": "Quiet Dungeons and Caves",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/1320",
       "flags": [],
       "desc": "Removes looping wind noise from dungeons."
-    },
-    {
-      "name": "Icebreakers Improved Reverb",
-      "url": "http://www.nexusmods.com/skyrim/mods/16907",
-      "flags": [],
-      "desc": "Adds reverb to caverns."
     },
     {
       "name": "Activate Fail Noise Removal",
       "url": "http://www.nexusmods.com/skyrim/mods/210",
       "flags": [],
-      "desc": "Removes annoying &quot;fail&quot; noise."
+      "desc": "Removes annoying fail noise. Compatible with SSE."
     },
     {
       "name": "SILENT Skyrim - Quieter Interface",
       "url": "http://www.nexusmods.com/skyrim/mods/30877",
       "flags": [5],
-      "desc": "Can replace nearly 2 dozen annoying sound effects with silent .wav file - sneak attack &quot;clunk&quot;, activate fail noise, level-up noises, crafting noises, nirn root ringing, and many more."
+      "desc": "Can replace nearly 2 dozen annoying sound effects with silent .wav file - sneak attack \"clunk\", activate fail noise, level-up noises, crafting noises, nirn root ringing, and many more. Compatible with SSE."
     },
     {
       "name": "Skyrim User Interface Silencer",
       "url": "http://www.nexusmods.com/skyrim/mods/15034",
       "flags": [5],
-      "desc": "Same as above mod, but uses a different method of choosing which sounds to removes."
+      "desc": "Same as above mod, but uses a different method of choosing which sounds to removes. Compatible with SSE."
     },
     {
-      "name": "Waterbreathing Breathless Emerge",
-      "url": "http://www.nexusmods.com/skyrim/mods/9962",
+      "name": "Waterbreathing Breathless Emerge SSE",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/14485",
       "flags": [],
       "desc": "Water emerging breath sound no longer plays if under the effect of water breathing."
     },
@@ -650,145 +578,79 @@
       "name": "Underwater Swimming SFX Fix",
       "url": "http://www.nexusmods.com/skyrim/mods/3488",
       "flags": [],
-      "desc": "Corrects/improves underwater sound for better immersion."
+      "desc": "Corrects/improves underwater sound for better immersion. Compatible with SSE."
     },
     {
       "name": "Realistic Husky Sounds",
-      "url": "http://www.nexusmods.com/skyrim/mods/61884",
-      "flags": [1],
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/11038",
+      "flags": [],
       "desc": "Adds over 60 all-new, high-quality husky sounds to the Dawnguard huskies."
     },
     {
       "name": "Better Horse Pain Sounds",
       "url": "http://www.nexusmods.com/skyrim/mods/12608",
       "flags": [],
-      "desc": "Much better sound for horses that get hit/hurt."
+      "desc": "Much better sound for horses that get hit/hurt. Compatible with SSE."
     },
     {
       "name": "FSS - Better Bards",
       "url": "http://www.nexusmods.com/skyrim/mods/6496",
       "flags": [],
-      "desc": "Improves timing of bard singing."
-    },
-    {
-      "name": "FSS - No pause between lines",
-      "url": "http://www.nexusmods.com/skyrim/mods/6333",
-      "flags": [],
-      "desc": "Removes pause between spoken NPC lines."
-    },
-    {
-      "name": "Bards Play Less - Bards Play Only on flagsuest",
-      "url": "http://www.nexusmods.com/skyrim/mods/29968",
-      "flags": [],
-      "desc": "Choose between 3 versions - 1) Bards Play Less (Talking to them will force them to take a break) break 2) Bards Play Less instrumental only 3) Bards play only on flagsuest (linked video is not related to this mod)."
+      "desc": "Improves timing of bard singing. Compatible with SSE."
     },
     {
       "name": "Thundering shouts",
-      "url": "http://www.nexusmods.com/skyrim/mods/3799",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/14352",
       "flags": [],
       "desc": "Cooler shouts - Adds some echo to shouts + a thunder sound + 10% lower pitch."
-    },
-    {
-      "name": "Ambient Seagulls",
-      "url": "http://www.nexusmods.com/skyrim/mods/1306",
-      "flags": [],
-      "desc": "Adds seagull noises to appropriate areas."
     },
     {
       "name": "Better Animal Footsteps",
       "url": "http://www.nexusmods.com/skyrim/mods/24805",
       "flags": [],
-      "desc": "Makes footstep sounds for 16+ animals more realistic (e.g. rabbits, spiders, mammoths, horkers, mudcrabs, deer, bear, etc.)."
+      "desc": "Makes footstep sounds for 16+ animals more realistic (e.g. rabbits, spiders, mammoths, horkers, mudcrabs, deer, bear, etc.). Compatible with SSE."
     },
     {
       "name": "IHSS - Improved Horse Step Sounds",
-      "url": "http://www.nexusmods.com/skyrim/mods/31039",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/848",
       "flags": [],
-      "desc": "Improves the &quot;hoovestep&quot; sounds of horses by adding &quot;sound sets&quot; for different grounds."
-    },
-    {
-      "name": "Clanking Armor",
-      "url": "http://www.nexusmods.com/skyrim/mods/24352",
-      "flags": [],
-      "desc": "Changes the footstep sounds when wearing plate armor (much more realistic!)."
+      "desc": "Improves the \"hoovestep\" sounds of horses by adding \"sound sets\" for different grounds."
     },
     {
       "name": "Ultra Realistic Bow Shoot Sounds",
       "url": "http://www.nexusmods.com/skyrim/mods/27208",
       "flags": [],
-      "desc": "Makes bow sounds more realistic."
+      "desc": "Makes bow sounds more realistic. Compatible with SSE."
     },
     {
-      "name": "Improved Combat Sounds",
-      "url": "http://www.nexusmods.com/skyrim/mods/5289",
+      "name": "Improved Combat Sounds SE",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/28415",
       "flags": [],
       "desc": "Improves combat sounds."
     },
     {
-      "name": "Better Weapon Swing Sounds",
-      "url": "http://www.nexusmods.com/skyrim/mods/17903",
-      "flags": [],
-      "desc": "Improves weapon swing sounds."
-    },
-    {
-      "name": "Smooth blade draw and Sheathe",
-      "url": "http://www.nexusmods.com/skyrim/mods/1117",
+      "name": "Smooth Blade Draw and Sheath SE",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/47364",
       "flags": [],
       "desc": "Quieter sound when drawing or sheathing a blade. When in sneak mode, your character will attack silently instead of yelling with each swing plus weapon sounds are quieter."
     },
     {
-      "name": "Dagger Sounds 4 Daggers",
-      "url": "http://www.nexusmods.com/skyrim/mods/22648",
-      "flags": [],
-      "desc": "Exchanges the 1h swing sounds of daggers with special dagger swing sounds."
-    },
-    {
-      "name": "Delarics Conditional Combat Music",
-      "url": "http://www.nexusmods.com/skyrim/mods/28511",
-      "flags": [],
-      "desc": "Disables combat music except when fighting certain higher-level enemies (several lists to choose from). No more being tipped off when common enemies are nearby."
-    },
-    {
-      "name": "Fix for combat music",
-      "url": "http://www.nexusmods.com/skyrim/mods/20926",
-      "flags": [],
-      "desc": "Ensures that combat music always plays during battles. (By default, low-level encounters stop triggering combat music when player reaches higher levels)"
-    },
-    {
-      "name": "True Medieval Music",
+      "name": "True Medieval Tavern Music",
       "url": "http://www.nexusmods.com/skyrim/mods/27425",
       "flags": [],
-      "desc": "Replaces vanilla music you hear in bars/s with true medieval music from long ago."
+      "desc": "Replaces vanilla music you hear in bars/s with true medieval music from long ago. Compatible with SSE?"
     },
     {
       "name": "Immersive Music",
-      "url": "http://www.nexusmods.com/skyrim/mods/66612",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/16402",
       "flags": [],
-      "desc": "Adds 18 hours of lore-friendly music to the existing 3.5 hours of vanilla music. Hand-selected by Hothtrooper44. Appropriate music type will play based on location/activity."
+      "desc": "Adds 16 hours of lore-friendly music to the existing 3.5 hours of vanilla music. Hand-selected by Hothtrooper44. Appropriate music type will play based on location/activity."
     },
     {
-      "name": "Fantasy Soundtrack Project",
-      "url": "http://www.nexusmods.com/skyrim/mods/46518",
+      "name": "Fantasy Soundtrack Project SE",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/5268",
       "flags": [],
-      "desc": "The successor to Fantasy Music Overhaul. Includes 200+ lore-friendly music tracks (12+ hours) that can add to or replace the original Skyrim soundtrack. Appropriate music plays based on location/activity."
-    },
-    {
-      "name": "Enhanced Soundtrack",
-      "url": "http://steamcommunity.com/sharedfiles/filedetails/?id=11818",
-      "flags": [],
-      "desc": "Adds a variety of high quality, immersive ambient music to game."
-    },
-    {
-      "name": "Skyrim Soundtrack Expansion",
-      "url": "http://steamcommunity.com/sharedfiles/filedetails/?id=101421158",
-      "flags": [],
-      "desc": "Adds 30 minutes of lore-friendly orchestral music to world exploration playlist."
-    },
-    {
-      "name": "Skyrim Theme Menu Music",
-      "url": "http://www.nexusmods.com/skyrim/mods/21308",
-      "flags": [],
-      "desc": "Violin cover of Skyrim theme music???.by Jason Yang"
+      "desc": "Adds 800+ minutes of new music. 235+ different tracks. Optionally has 20 combat tracks. Has replacer and non-replacer options."
     }
   ],
   "ui_animations": [
