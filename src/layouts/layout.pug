@@ -1,0 +1,34 @@
+doctype html
+head
+  meta(charset="utf-8")
+  meta(name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no")
+  title Skyrim GEMSSE
+  meta(name="twitter:card" content="summary")
+  meta(name="description" content="A comprehensive 1-page catalog of gameplay enhancing mods for Skyrim Special Edition.")
+  meta(property="og:type" content="")
+  link(rel="icon", type="image/svg+xml", href="assets/images/favicon.svg")
+  link(rel="icon", type="image/png", href="assets/images/favicon.png")
+  link(rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css")
+  link(rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora")
+  link(rel="stylesheet" href="assets/css/styles.min.css")
+body.d-flex.flex-column.vh-100
+  .d-flex.justify-content-center.bg-dark.py-2
+    a(href="index.html")
+      img.mw-100(src="assets/images/gemsse-header.png" loading="lazy")
+  nav.navbar.navbar-dark.navbar-expand.bg-dark
+    .container.justify-content-center
+      ul.navbar-nav
+        li.nav-item
+          a.nav-link(href="index.html") Home
+        li.nav-item
+          a.nav-link(href="about.html") About
+        li.nav-item
+          a.nav-link(href="https://github.com/big-duckie/skyrim-gemsse") GitHub
+        li.nav-item
+          a.nav-link(href="https://big-duckie.github.io/skyrim-gems/") GEMS
+  .container.flex-grow-1.my-5
+    block content
+  footer.bg-dark.py-3
+    p.text-muted.text-center.m-0 Built by Big Duckie
+  script(src="assets/bootstrap/js/bootstrap.min.js")
+  script(src="assets/js/script.min.js")

@@ -1,0 +1,126 @@
+extends ../layouts/layout
+
+mixin accordion-item(parent, id, title, data)
+  .accordion-item
+    h2.accordion-header(role="tab")
+      button.accordion-button.collapsed(data-bs-toggle="collapse", data-bs-target=`${parent} .item-${id}`, aria-expanded="false", aria-controls=`${parent} .item-${id}`)= title
+    div(class=["accordion-collapse", "collapse", `item-${id}`], role="tabpanel" data-bs-parent=parent)
+      .accordion-body
+        .table-responsive
+          table.table.table-sm
+            tbody.align-middle
+              for mod in data
+                tr(class=mod.flags.includes(5) ? "bg-gray" : "" )
+                  td.col-3
+                    if Array.isArray(mod.name)
+                      for name, i in mod.name
+                        a.d-block(href=mod.url[i])= name
+                    else
+                      a.d-block(href=mod.url target="_blank")= mod.name
+                  td.col-1
+                    .d-flex.justify-content-center
+                      for flag in mod.flags
+                        case flag
+                          when 1: img.icon(src="assets/images/icons/dawnguard.svg" data-bs-toggle="tooltip" data-bs-placement="top" title="Dawnguard DLC")
+                          when 2: img.icon(src="assets/images/icons/hearthfire.svg" data-bs-toggle="tooltip" data-bs-placement="top" title="Hearthfire DLC")
+                          when 3: img.icon(src="assets/images/icons/dragonborn.svg" data-bs-toggle="tooltip" data-bs-placement="top" title="Dragonborn DLC")
+                          when 4: img.icon(src="assets/images/icons/skse.svg" data-bs-toggle="tooltip" data-bs-placement="top" title="SKSE")
+                  td!= marked.parseInline(mod.desc)
+
+block content
+  .row.mb-3
+    .col-xl-10.offset-xl-1
+      p Skyrim GEMS is a 1-page, quick-reference catalog of lore-friendly Gameplay Enhancement Mods for Skyrim Special Edition.
+  .row.mb-4
+    .col-xl-10.offset-xl-1
+      h2.text-start.mx-3 Interface Mods
+      #accordion-1.accordion(role="tablist")
+        +accordion-item("#accordion-1", 1, "100 - Patches", patches)
+        +accordion-item("#accordion-1", 2, "110 - UI", ui)
+        +accordion-item("#accordion-1", 3, "120 - UI - Map", ui_map)
+        +accordion-item("#accordion-1", 4, "130 - UI - Timesavers", ui_timesavers)
+        +accordion-item("#accordion-1", 5, "140 - UI - Information", ui_information)
+        +accordion-item("#accordion-1", 6, "150 - UI - Sounds", ui_sounds)
+        +accordion-item("#accordion-1", 7, "160 - UI - Animations", ui_animations)
+  .row.mb-4
+    .col-xl-10.offset-xl-1
+      h2.text-start.mx-3 Character Mods
+      #accordion-2.accordion(role="tablist")
+        +accordion-item("#accordion-2", 1, "200 - Character Creation", character_creation)
+        +accordion-item("#accordion-2", 2, "210 - Alternate Starts", alternate_starts)
+        +accordion-item("#accordion-2", 3, "220 - Starter Homes", starter_homes)
+        +accordion-item("#accordion-2", 4, "230 - Character Leveling", character_leveling)
+        +accordion-item("#accordion-2", 5, "240 - Carry Weight", carry_weight)
+        +accordion-item("#accordion-2", 6, "250 - Backpacks and Storage", backpacks_storage)
+        +accordion-item("#accordion-2", 7, "260 - Item Weight", item_weight)
+  .row.mb-4
+    .col-xl-10.offset-xl-1
+      h2.text-start.mx-3 Gameplay Mods
+      #accordion-3.accordion(role="tablist")
+        +accordion-item("#accordion-3", 1, "300 - Gameplay Overhaul", gameplay_overhaul)
+        +accordion-item("#accordion-3", 2, "310 - Miscellaneous Gameplay", miscellaneous_gameplay)
+        +accordion-item("#accordion-3", 3, "320 - Creature Levels", creature_levels)
+        +accordion-item("#accordion-3", 4, "330 - Economy", economy)
+        +accordion-item("#accordion-3", 5, "340 - Magic", magic)
+        +accordion-item("#accordion-3", 6, "350 - Combat", combat)
+        +accordion-item("#accordion-3", 7, "360 - Archery", archery)
+        +accordion-item("#accordion-3", 8, "370 - Weapons and Armor", weapons_armor)
+  .row.mb-4
+    .col-xl-10.offset-xl-1
+      h2.text-start.mx-3 Realism Mods
+      #accordion-4.accordion(role="tablist")
+        +accordion-item("#accordion-4", 1, "400 - Realism", realism)
+        +accordion-item("#accordion-4", 2, "410 - Roleplaying", roleplaying)
+        +accordion-item("#accordion-4", 3, "420 - Basic Needs", basic_needs)
+        +accordion-item("#accordion-4", 4, "430 - Camping", camping)
+        +accordion-item("#accordion-4", 5, "440 - Traps", traps)
+        +accordion-item("#accordion-4", 6, "450 - Diseases", diseases)
+        +accordion-item("#accordion-4", 7, "460 - Timescale", timescale)
+  .row.mb-4
+    .col-xl-10.offset-xl-1
+      h2.text-start.mx-3 Weather &amp; Lighting Mods
+      #accordion-5.accordion(role="tablist")
+        +accordion-item("#accordion-5", 1, "500 - Weather", weather)
+        +accordion-item("#accordion-5", 2, "510 - Roleplaying", lighting)
+        +accordion-item("#accordion-5", 3, "520 - Torches and Lanterns", torches_lanterns)
+  .row.mb-4
+    .col-xl-10.offset-xl-1
+      h2.text-start.mx-3 Travel Mods
+      #accordion-6.accordion(role="tablist")
+        +accordion-item("#accordion-6", 1, "600 - Speed", speed)
+        +accordion-item("#accordion-6", 2, "610 - Horses", horses)
+        +accordion-item("#accordion-6", 3, "620 - Fast Travel", fast_travel)
+        +accordion-item("#accordion-6", 4, "630 - Boats", boats)
+        +accordion-item("#accordion-6", 5, "640 - Carriages", carriages)
+  .row.mb-4
+    .col-xl-10.offset-xl-1
+      h2.text-start.mx-3 Encounter Mods
+      #accordion-7.accordion(role="tablist")
+        +accordion-item("#accordion-7", 1, "700 - Followers", realism)
+        +accordion-item("#accordion-7", 2, "710 - Follower Enhancements", roleplaying)
+        +accordion-item("#accordion-7", 3, "720 - Spouses and Children", basic_needs)
+        +accordion-item("#accordion-7", 4, "730 - NPC Enhancements", camping)
+        +accordion-item("#accordion-7", 5, "740 - NPC Encounters", traps)
+        +accordion-item("#accordion-7", 6, "750 - Wildlife Enhancements", diseases)
+        +accordion-item("#accordion-7", 7, "760 - Wildlife Encounters", timescale)
+        +accordion-item("#accordion-7", 8, "770 - Creatures", creatures)
+        +accordion-item("#accordion-7", 9, "780 - Dragons", dragons)
+  .row.mb-4
+    .col-xl-10.offset-xl-1
+      h2.text-start.mx-3 Thievery Mods
+      #accordion-8.accordion(role="tablist")
+        +accordion-item("#accordion-8", 1, "800 - Thievery Overhaul", thievery_overhaul)
+        +accordion-item("#accordion-8", 2, "810 - Stealth", stealth)
+        +accordion-item("#accordion-8", 3, "820 - Pickpocket", pickpocket)
+        +accordion-item("#accordion-8", 4, "830 - Lockpicking", lockpicking)
+        +accordion-item("#accordion-8", 5, "840 - Crime", crime)
+  .row.mb-4
+    .col-xl-10.offset-xl-1
+      h2.text-start.mx-3 Crafting Mods
+      #accordion-9.accordion(role="tablist")
+        +accordion-item("#accordion-9", 1, "900 - Crafting Overhaul", crafting_overhaul)
+        +accordion-item("#accordion-9", 2, "910 - Crafting", crafting)
+        +accordion-item("#accordion-9", 3, "920 - Cooking", cooking)
+        +accordion-item("#accordion-9", 4, "930 - Alchemy", alchemy)
+        +accordion-item("#accordion-9", 5, "940 - Scrollcrafting", scrollcrafting)
+        +accordion-item("#accordion-9", 6, "950 - Enhancements", enchantments)
