@@ -4,7 +4,7 @@
   "description": "",
   "repository": "",
   "scripts": {
-    "start": "SET env=PROD & pug src/pages -o dist --pretty -O options.js",
+    "start": "SET env=PROD & pug src/pages -o docs --pretty -O options.js",
     "dev": "SET env=DEV & nodemon --watch src -e js,pug,json --exec \"pug src/pages -o dev --pretty -O options.js\""
   },
   "keywords": [

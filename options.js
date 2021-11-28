@@ -15,7 +15,7 @@ files.forEach((file) => {
 if (process.env.env.trim() == "DEV") {
   fs.copy("src/assets", "dev/assets");
 } else {
-  fs.copy("src/assets", "dist/assets");
+  fs.copy("src/assets", "docs/assets");
 }
 
 module.exports = options;
