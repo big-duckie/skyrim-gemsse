@@ -4,8 +4,10 @@
   "description": "",
   "repository": "",
   "scripts": {
-    "start": "SET env=PROD & pug src/pages -o docs --pretty -O options.js",
-    "dev": "SET env=DEV & nodemon --watch src -e js,pug,json --exec \"pug src/pages -o dev --pretty -O options.js\""
+    "start": "env=PROD pug3 src/pages -o docs --pretty -O options.js",
+    "start-win": "SET env=PROD && pug3 src/pages -o docs --pretty -O options.js",
+    "dev": "env=DEV nodemon --watch src -e js,pug,json,scss --exec \"pug3 src/pages -o dev --pretty -O options.js\"",
+    "dev-win": "SET env=DEV && nodemon --watch src -e js,pug,json,scss --exec \"pug3 src/pages -o dev --pretty -O options.js\""
   },
   "keywords": [
     "pug",
@@ -16,9 +18,11 @@
   "author": "Big Duckie",
   "license": "MIT",
   "dependencies": {
+    "@anduh/pug-cli": "^1.0.0-alpha8",
     "fs-extra": "^10.0.0",
     "marked": "^4.0.5",
+    "nodemon": "^2.0.15",
     "pug": "^3.0.2",
-    "pug-cli": "^1.0.0-alpha6"
+    "sass": "^1.51.0"
   }
 }
