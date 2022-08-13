@@ -28,14 +28,14 @@ datafiles.forEach((file) => {
 var sassfiles = fs.readdirSync(sasspath);
 sassfiles.forEach((file) => {
   if (path.extname(file) != ".scss") return;
-  let result = sass.compile(path.join(__dirname, sasspath, file));
+  let result = sass.compile(path.join(__dirname, sasspath, file), {style: "compressed"});
 
   if (process.env.env.trim() == "DEV") {
     fs.mkdirpSync(path.join(__dirname, devpath, "assets", "css"))
-    fs.writeFileSync(path.join(__dirname, devpath, "assets", "css", path.parse(file).name + ".css"), result.css);
+    fs.writeFileSync(path.join(__dirname, devpath, "assets", "css", path.parse(file).name + ".min.css"), result.css);
   } else {
     fs.mkdirpSync(path.join(__dirname, publicpath, "assets", "css"))
-    fs.writeFileSync(path.join(__dirname, publicpath, "assets", "css", path.parse(file).name + ".css"), result.css);
+    fs.writeFileSync(path.join(__dirname, publicpath, "assets", "css", path.parse(file).name + ".min.css"), result.css);
   }
 });
 

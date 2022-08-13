@@ -1,0 +1,41 @@
+table {
+	&.table {
+		a {
+			text-decoration: initial;
+			font-weight: 600;
+            @media (prefers-color-scheme: light) {
+                color: rgb(33, 37, 41);
+            }
+            @media (prefers-color-scheme: dark) {
+                color: rgb(222, 218, 214);
+            }
+		}
+	}
+}
+.icon {
+	height: 20px;
+	margin: 0 2.5px;
+	&:first-child {
+		margin-left: 0;
+	}
+	&:last-child {
+		margin-right: 0;
+	}
+	@media (prefers-color-scheme: dark) {
+		filter: invert(1);
+	}
+}
+.accordion-body {
+	padding: 0;
+}
+.table {
+	margin-bottom: 0;
+}
+.bg-gray {
+	@media (prefers-color-scheme: light) {
+		background-color: rgb(238, 239, 240) !important;
+	}
+	@media (prefers-color-scheme: dark) {
+		background-color: rgb(26, 26, 26) !important;
+	}
+}
