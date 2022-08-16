@@ -961,105 +961,51 @@
   "backpacks_storage": [
     {
       "name": "Bandolier - Bags and Pouches",
-      "url": "http://www.nexusmods.com/skyrim/mods/16438",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/2417",
       "flags": [],
-      "desc": "Adds a variety of bags and pouches that increase carry weight. 5 new slots for equipment: Chest, Back Left, Back Right, Front Left and Front Right. Also consider [Bandolier for NPCs](http://www.nexusmods.com/skyrim/mods/17805) and [Bandolier - Decreased carry weight and lower prices](http://www.nexusmods.com/skyrim/mods/17879)"
+      "desc": "Adds a variety of bags and pouches that increase carry weight. 5 new slots for equipment: Chest, Back Left, Back Right, Front Left and Front Right."
     },
     {
       "name": "Functional Bags",
-      "url": "http://www.nexusmods.com/skyrim/mods/50589",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/23085",
       "flags": [],
       "desc": "Adds item-specific type bags that help to auto-sort your inventory. They reduce weight of items within by 20% (40% when the bag is worn). Certain bags can be worn on the right side or swapped to the left side on the spot."
     },
     {
       "name": "Knapsack Enhanced",
-      "url": "http://www.nexusmods.com/skyrim/mods/32847",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/25349",
       "flags": [],
       "desc": "Adds a craftable dynamic backpack that automatically adds/removes visible items when used/acquired e.g. Axe, pickaxe, tent, torch, pot and pan, waterskin, etc. Adds 75 carry weight. Requires Frostfall."
     },
     {
-      "name": "Mage Backpack by Tumbajamba",
-      "url": "http://www.nexusmods.com/skyrim/mods/31191",
+      "name": "Knapsack Backpacks",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/3440",
+      "flags": [],
+      "desc": "Adds a collection of backpacks based on the torturer's knapsack in Helgen Keep."
+    },
+    {
+      "name": "Mage Backpack",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/6534",
       "flags": [],
       "desc": "Adds a craftable backpack that adds 70 carry weight and +15 magic resistance."
     },
     {
       "name": "Leather Backpack",
-      "url": "http://www.nexusmods.com/skyrim/mods/13732",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/42455",
       "flags": [],
-      "desc": "Adds a leather backpack that adds 50, 100 or 300 carry capacity (choose one)"
+      "desc": "Adds a craftable leather backpack in three variants, in two different colors."
     },
     {
       "name": "Nordic Ranger Outfit",
-      "url": "http://www.nexusmods.com/skyrim/mods/25113",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/5929",
       "flags": [],
       "desc": "Adds a craftable leather armor set. One of the 6 pieces is a ranger backpack that adds 15 CarryWeight (does not conflict with Bandolier - Bags and Pouches)"
     },
     {
-      "name": "FrankDema Travel BackPack",
-      "url": "http://www.nexusmods.com/skyrim/mods/23913",
-      "flags": [],
-      "desc": "Adds a craftable backpack that increases CarryWeight 50 points. Very similar to Nordic Ranger backpack except a sword is always displayed as part of the backpack and has 50 carryweight instead of 15."
-    },
-    {
-      "name": "Fur Bag - Backpack",
-      "url": "http://www.nexusmods.com/skyrim/mods/9090",
-      "flags": [],
-      "desc": "Adds a fur bag that adds 50 carry capacity"
-    },
-    {
-      "name": "Sabre Gear Backpack",
-      "url": "http://www.nexusmods.com/skyrim/mods/13687",
-      "flags": [],
-      "desc": "Improves on Fur bag - adds Fur Traveler's bag (+50 CarryWeight) & Fur Survivor's Bag (+100 CarryWeight). 3 colors each."
-    },
-    {
-      "name": "Knapsack Backpacks",
-      "url": "http://www.nexusmods.com/skyrim/mods/30986",
-      "flags": [],
-      "desc": "Adds 20 craftable backpacks (4 sizes and 5 colors) that add a variety of carry capacities. Thin goes underneath bows and quivers. Huge covers bows and quivers. Positions automatically adjust if worn with cloaks."
-    },
-    {
-      "name": "Loot Later",
-      "url": "http://www.nexusmods.com/skyrim/mods/61543",
-      "flags": [4],
-      "desc": "\\[SKSE\\] Craft empty sacks and when encumbered, drop them on the ground and move some of your loot to it for later retrieval. Holds up to 150 units of weight. Mark up to 16 sacks on the map."
-    },
-    {
-      "name": "Blacksmith Storage Chests",
-      "url": "http://www.nexusmods.com/skyrim/mods/18021",
-      "flags": [5],
-      "desc": "Talk to the blacksmith in each city to buy a non-respawning storage chest to store your crafting supplies. Chest can auto-sort your supplies (optional) and contents can be shared between cities (optional)"
-    },
-    {
-      "name": "Shockys Safe Chests",
-      "url": "http://www.nexusmods.com/skyrim/mods/19098",
-      "flags": [5],
-      "desc": "Adds 43 player-owned, non-respawning storage chests to inns and many other logical, helpful locations. Contents are not linked. (NOTE: [Realistic Room Rental](http://www.nexusmods.com/skyrim/mods/25029) also adds player-owned chests)"
-    },
-    {
-      "name": "Storage Helpers",
-      "url": "http://www.nexusmods.com/skyrim/mods/17574",
-      "flags": [5],
-      "desc": "Craft pouches, chests, sacks, barrels and place anywhere. Move, rotate, resize, or rename anything. Convert bandoliers, pouches, and backpacks into wearable containers. Quick access to teammate and saddlebag inventories. Put multiple items into a container with 1 click. Store quest items. More..."
-    },
-    {
       "name": "Craftable Cloud Storage",
-      "url": "http://www.nexusmods.com/skyrim/mods/25422",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/5263",
       "flags": [5],
-      "desc": "Adds craftable, placeable, automated, heuristic, centralized storage to simplify inventory management. Place anywhere. (A user-friendly adaptation of \"[General Stores - storage resource for packrats](http://www.nexusmods.com/skyrim/mods/18340)\")."
-    },
-    {
-      "name": "Arod's Better Containers",
-      "url": "http://www.nexusmods.com/skyrim/mods/28196",
-      "flags": [5],
-      "desc": "Store customizable sets of items into \\*any\\* container/s (local or remote) with one click. Use 50+ presets or cast \"Learn\" and then later cast \"Stash\" to auto-store. Retrieve from up to 6 remote containers. Move or Rename any containers (i.e. \"Sack\" can become \"Filled Soulgems\"). Craft different kinds of containers and place anywhere + more..."
-    },
-    {
-      "name": "Buildable Chests and Containers",
-      "url": "http://www.nexusmods.com/skyrim/mods/32676",
-      "flags": [5],
-      "desc": "Craft your own non respawning chests and place them anywhere (not shared)"
+      "desc": "Adds craftable, placeable, automated, heuristic, centralized storage to simplify inventory management. Place anywhere."
     }
   ],
   "item_weight": [
