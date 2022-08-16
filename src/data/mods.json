@@ -946,32 +946,8 @@
       "desc": "Use the console (~) to permanently set a new Carry Weight for your character. (NOTE: Vanilla CarryWeight is 300... plus 5 each time you upgrade Stamina)"
     },
     {
-      "name": "More Believable Carrying Weight",
-      "url": "http://www.nexusmods.com/skyrim/mods/48929",
-      "flags": [],
-      "desc": "Lowers carry weight for player, followers and NPCs from 300 (vanilla) to 75-135 depending on race. No other changes made."
-    },
-    {
-      "name": "SkyRealism - Capacity and Carry Weight",
-      "url": "http://www.nexusmods.com/skyrim/mods/21224",
-      "flags": [1, 4],
-      "desc": "\\[SKSE\\]\\[DG\\] Hardcore carry weight mod - sets base CarryWeight equal to weight of equipped items plus 50 (need bandoliers and backpacks to add weight)"
-    },
-    {
-      "name": "SkyRealism - Encumbrance",
-      "url": "http://www.nexusmods.com/skyrim/mods/21211",
-      "flags": [1, 4],
-      "desc": "\\[SKSE\\]\\[DG\\] Hardcore encumbrance mod - Option 1: Movement speed is modified based on how much weight you're carrying and your average skill level. Option 2: Use [this tweak mod](http://www.nexusmods.com/skyrim/mods/41862) to have excessive weight reduce stamina while running instead of reducing movement speed."
-    },
-    {
-      "name": "DFB Carry Weight Per Stamina",
-      "url": "http://www.nexusmods.com/skyrim/mods/4842",
-      "flags": [],
-      "desc": "Carry Weight increases by x amount for each Stamina point gained where x = 1 - 20 (player choice)"
-    },
-    {
       "name": "More Realistic Carrying ",
-      "url": "http://www.nexusmods.com/skyrim/mods/10353",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/68332",
       "flags": [],
       "desc": "Armor that youre wearing weighs 80% less. (Useful when lowering Carry Weight to realistic levels)"
     },
@@ -980,18 +956,6 @@
       "url": "http://www.nexusmods.com/skyrim/mods/13247",
       "flags": [],
       "desc": "Unequipped armour and weapons have an encumbrance penalty of 2.25 time their normal weight (multiplier is configurable)"
-    },
-    {
-      "name": "EK_LimitedItems",
-      "url": "http://www.nexusmods.com/skyrim/mods/11322",
-      "flags": [5],
-      "desc": "Sets player-configurable limits on max # of items that can be carried for arrows, potions, lockpicks and more. Offers 2 methods for limiting armor and weapons: 1) Items take up space, individually defined by item class (like Diablo). 2) Player defines max numbers per weapon class. Compatible with Bandolier - Bags and Pouches and Sabre Gear in Frosftall."
-    },
-    {
-      "name": "TCSO - Total Carryweight System Overhaul",
-      "url": "http://www.nexusmods.com/skyrim/mods/17371",
-      "flags": [5],
-      "desc": "Lowers Carry Weight by race (85-130) & limits the # of items of a specific type you can carry (e.g. 20 Potions, 30 Arrows, 1 2-handed sword, 1 set of heavy armor, etc). Can use an in-game book to configure weights/options"
     }
   ],
   "backpacks_storage": [
