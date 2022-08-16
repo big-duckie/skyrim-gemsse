@@ -921,58 +921,22 @@
   ],
   "character_leveling": [
     {
-      "name": "Skyrim -Community- Uncapper",
-      "url": "http://www.nexusmods.com/skyrim/mods/1175",
+      "name": "Skyrim Skill Uncapper",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/8889",
       "flags": [4],
-      "desc": "\\[SKSE\\] Set your own custom skill level caps, experience earning rate of each skill, the relation between skill leveling and player leveling, number of perks, Health points, Magicka points, Stamina points, and/or \"Carry Weight\" points gained at a specific level up. ([Click here](http://www.skyrimgems.com/uncapper.html) for additional documentation/explanation of the .ini options) [Click here](http://www.nexusmods.com/skyrim/mods/21569) for a spreadsheet to help calculate your values)"
-    },
-    {
-      "name": "ERSO 13.02 - Lower Skill Gain",
-      "url": "http://erkeilmods.altervista.org/skyrim/",
-      "flags": [5],
-      "desc": "(An indpendent, standalone module of [ERSO \\_ Erkeil Real Skyrim Overhaul](http://erkeilmods.altervista.org/skyrim/)). Makes all skills progress 10-60% slower (choose from 8 options) with the exception of Pickpocket, Alchemy, Speech, Enchanting and Smithing...which progress even slower."
-    },
-    {
-      "name": "Slower leveling up with tutorial",
-      "url": "http://www.nexusmods.com/skyrim/mods/11501",
-      "flags": [5],
-      "desc": "Leveling is 2,3,4 or 5 times slower (choose). Compatible with [Character Creation Overhaul](http://www.nexusmods.com/skyrim/mods/21587). (Click [here](http://www.nexusmods.com/skyrim/mods/24422/) for similar version with slower leveling for Enchant & Pickpocket)"
+      "desc": "Set your own custom skill level caps, experience earning rate of each skill, the relation between skill leveling and player leveling, number of perks, Health points, Magicka points, Stamina points, and/or \"Carry Weight\" points gained at a specific level up. ([Click here](http://www.skyrimgems.com/uncapper.html) for additional documentation/explanation of the .ini options) [Click here](http://www.nexusmods.com/skyrim/mods/21569) for a spreadsheet to help calculate your values)"
     },
     {
       "name": "SXP - Skyrim Experience Mod",
-      "url": "http://www.nexusmods.com/skyrim/mods/40899//",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/37234",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] A new skill leveling overhaul. Earn XP by completing quests, visiting a new location, defeating a foe, etc. Spend XP to level up any skill. Requires [Community Uncapper](http://www.nexusmods.com/skyrim/mods/1175)."
-    },
-    {
-      "name": "SkyXP",
-      "url": "http://www.nexusmods.com/skyrim/mods/20681",
-      "flags": [4, 5],
-      "desc": "\\[SKSE\\] A skill leveling overhaul. Earn XP by completing quests, visiting a new location, defeating a foe etc. Spend XP to level up any skill. Requires [Community Uncapper](http://www.nexusmods.com/skyrim/mods/1175)."
-    },
-    {
-      "name": "Katixas Skill Lock Cap",
-      "url": "http://www.nexusmods.com/skyrim/mods/14514",
-      "flags": [],
-      "desc": "Allows you to set a cap (limit) for each skill individually (e.g. roleplay a warrior so magic skills cap at 15). Or try [Skills Config](http://www.nexusmods.com/skyrim/mods/34307) as an alternative."
+      "desc": "A new skill leveling overhaul. Earn XP by completing quests, visiting a new location, defeating a foe, etc. Spend XP to level up any skill. Requires [Community Uncapper](http://www.nexusmods.com/skyrim/mods/1175)."
     },
     {
       "name": "Reflection",
-      "url": "http://www.nexusmods.com/skyrim/mods/25469",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/1188",
       "flags": [],
       "desc": "Like Oblivion, perk points are allocated after sleeping."
-    },
-    {
-      "name": "Immersive Leveling",
-      "url": "http://www.nexusmods.com/skyrim/mods/57876/",
-      "flags": [],
-      "desc": "Perks no longer gained through leveling. All perks are earned through reading books or through trainers. Books are in locations relevant to their content (e.g. mage books at College of Winterhold). Now with scaling perk efficiency (e.g. the higher your skills, the better the perks) and uncapper presets to get perks the vanilla way. Requires [Skyrim -Community- Uncapper](http://www.nexusmods.com/skyrim/mods/1175)."
-    },
-    {
-      "name": "Skill Book Overhaul",
-      "url": "http://www.nexusmods.com/skyrim/mods/28778",
-      "flags": [],
-      "desc": "Doubles the amount of unique, lore-friendly skill books in the game from 90 to 180 (for those who prefer to level more through adventuring and studying...and for collectors)"
     }
   ],
   "carry_weight": [
