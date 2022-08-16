@@ -828,57 +828,39 @@
   "alternate_starts": [
     {
       "name": "Alternate Start - Live Another Life",
-      "url": "https://www.afkmods.com/index.php?/files/file/1889-alternate-start-live-another-life/",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/272",
       "flags": [1, 2, 3],
       "desc": "Adds various alternative starting points. All choices start at level 1, with the Dragonborn quest being optional."
     },
     {
-      "name": "New Beginnings -- Live Another Life Extension",
-      "url": "https://www.nexusmods.com/skyrim/mods/70959/",
+      "name": "New Beginnings - Live Another Life Extension",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/4939",
       "flags": [1, 2, 3],
-      "desc": "A large expansion for [Alternate Start - Live Another Life](https://www.afkmods.com/index.php?/files/file/1889-alternate-start-live-another-life/) that adds 14 new alternate starts."
+      "desc": "A large expansion for [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) that adds 14 new alternate starts."
     },
     {
-      "name": "Skyrim Unbound (Alternate Start)",
-      "url": "https://www.nexusmods.com/skyrim/mods/71465",
+      "name": "Skyrim Unbound Reborn (Alternate Start)",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/27962",
       "flags": [],
-      "desc": "Lets you choose a starting class and where you want to start. Lets you choose if you want to play as the Dragonborn (NPCs will not talk about Helgen or recognize you as the Dragonborn). Toggle starting spells, dragons, random dragon spawns, dragon soul absorption, and shouts. More...(direct download link [here](http://www.intarwebz.net/sub/games/skyrim/mods/skyrim_unbound/))"
+      "desc": "Lets you choose a starting class and where you want to start. Lets you choose if you want to play as the Dragonborn (NPCs will not talk about Helgen or recognize you as the Dragonborn). Toggle starting spells, dragons, random dragon spawns, dragon soul absorption, and shouts."
     },
     {
-      "name": "Random Alternate Start",
-      "url": "http://www.nexusmods.com/skyrim/mods/25404",
+      "name": "RASR - Random Alternate Start Reborn",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/8328",
       "flags": [],
       "desc": "A completely random start - choose from 21 class starting kits and start in one of 463+ locations."
     },
     {
-      "name": "New life - pseudo alternate start",
-      "url": "http://www.nexusmods.com/skyrim/mods/24167",
-      "flags": [],
-      "desc": "Multiple alternate starts at level 1 from different towns with different stories (e.g. a deckhand in Dawnstar, hunter in Falkreath, farmhand in Markarth, etc). The race menu appears after intro. Main quest already completed. (Also adds ability to create your own alternate start)"
-    },
-    {
-      "name": "a HARDCORE start - bandit Theanna",
-      "url": "http://www.nexusmods.com/skyrim/mods/6951",
-      "flags": [],
-      "desc": "Plugin - you are a female bandit with a bounty on your head in 3 provinces. Main quest disabled."
-    },
-    {
       "name": "Dimes Quickstart",
-      "url": "http://www.nexusmods.com/skyrim/mods/8207",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/691",
       "flags": [],
       "desc": "Skip cart ride, attack, and dungeon. Choose your race & whether you followed Stormcloak or Imperial."
     },
     {
-      "name": "Skyrim through the eyes of a child - an alternate start",
-      "url": "http://www.nexusmods.com/skyrim/mods/32420",
-      "flags": [],
-      "desc": "Play as a child (male or female). Parents have both died. The Helgen incident never happened. There are no dragons and your character is not the dragonborn. Requires Playable Children Plus."
-    },
-    {
       "name": "Starting Spell Choice",
-      "url": "http://www.nexusmods.com/skyrim/mods/10254",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/1997",
       "flags": [],
-      "desc": "Removes Healing & Flames spells & allows player to choose 1 novice spell (or none) from each Magic school. NOTE: Use [Patch - Starting Spell Choice and Live Another Life](http://www.nexusmods.com/skyrim/mods/55489/) when using [Alternate Start - Live Another Life.](http://www.nexusmods.com/skyrim/mods/9557) (Or use [Spell Eraser](http://www.nexusmods.com/skyrim/mods/18096) mod)"
+      "desc": "Removes Healing & Flames spells & allows player to choose 1 novice spell (or none) from each Magic school."
     }
   ],
   "starter_homes": [
