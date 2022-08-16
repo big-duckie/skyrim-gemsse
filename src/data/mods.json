@@ -542,7 +542,7 @@
       "name": "More Sound Options (WIP)",
       "url": "https://www.nexusmods.com/skyrim/mods/40912",
       "flags": [],
-      "desc": "Adds volume controls for vanilla sounds - NPC footsteps, Menu sounds, waterfalls, Weapon draw sounds, etc. Useful for increasing the sound of waterfalls and distant loud noises such as hammering. Compatible with SSE."
+      "desc": "Adds volume controls for vanilla sounds - NPC footsteps, Menu sounds, waterfalls, Weapon draw sounds, etc. Useful for increasing the sound of waterfalls and distant loud noises such as hammering.<br><u>Compatible with SSE.</u>"
     },
     {
       "name": "Quiet Dungeons and Caves",
@@ -554,19 +554,19 @@
       "name": "Activate Fail Noise Removal",
       "url": "http://www.nexusmods.com/skyrim/mods/210",
       "flags": [],
-      "desc": "Removes annoying fail noise. Compatible with SSE."
+      "desc": "Removes annoying fail noise. <br><u>Compatible with SSE.</u>"
     },
     {
       "name": "SILENT Skyrim - Quieter Interface",
       "url": "http://www.nexusmods.com/skyrim/mods/30877",
       "flags": [5],
-      "desc": "Can replace nearly 2 dozen annoying sound effects with silent .wav file - sneak attack \"clunk\", activate fail noise, level-up noises, crafting noises, nirn root ringing, and many more. Compatible with SSE."
+      "desc": "Can replace nearly 2 dozen annoying sound effects with silent .wav file - sneak attack \"clunk\", activate fail noise, level-up noises, crafting noises, nirn root ringing, and many more. <br><u>Compatible with SSE.</u>"
     },
     {
       "name": "Skyrim User Interface Silencer",
       "url": "http://www.nexusmods.com/skyrim/mods/15034",
       "flags": [5],
-      "desc": "Same as above mod, but uses a different method of choosing which sounds to removes. Compatible with SSE."
+      "desc": "Same as above mod, but uses a different method of choosing which sounds to removes. <br><u>Compatible with SSE.</u>"
     },
     {
       "name": "Waterbreathing Breathless Emerge SSE",
@@ -578,7 +578,7 @@
       "name": "Underwater Swimming SFX Fix",
       "url": "http://www.nexusmods.com/skyrim/mods/3488",
       "flags": [],
-      "desc": "Corrects/improves underwater sound for better immersion. Compatible with SSE."
+      "desc": "Corrects/improves underwater sound for better immersion. <br><u>Compatible with SSE.</u>"
     },
     {
       "name": "Realistic Husky Sounds",
@@ -590,13 +590,13 @@
       "name": "Better Horse Pain Sounds",
       "url": "http://www.nexusmods.com/skyrim/mods/12608",
       "flags": [],
-      "desc": "Much better sound for horses that get hit/hurt. Compatible with SSE."
+      "desc": "Much better sound for horses that get hit/hurt. <br><u>Compatible with SSE.</u>"
     },
     {
       "name": "FSS - Better Bards",
       "url": "http://www.nexusmods.com/skyrim/mods/6496",
       "flags": [],
-      "desc": "Improves timing of bard singing. Compatible with SSE."
+      "desc": "Improves timing of bard singing. <br><u>Compatible with SSE.</u>"
     },
     {
       "name": "Thundering shouts",
@@ -608,7 +608,7 @@
       "name": "Better Animal Footsteps",
       "url": "http://www.nexusmods.com/skyrim/mods/24805",
       "flags": [],
-      "desc": "Makes footstep sounds for 16+ animals more realistic (e.g. rabbits, spiders, mammoths, horkers, mudcrabs, deer, bear, etc.). Compatible with SSE."
+      "desc": "Makes footstep sounds for 16+ animals more realistic (e.g. rabbits, spiders, mammoths, horkers, mudcrabs, deer, bear, etc.). <br><u>Compatible with SSE.</u>"
     },
     {
       "name": "IHSS - Improved Horse Step Sounds",
@@ -620,7 +620,7 @@
       "name": "Ultra Realistic Bow Shoot Sounds",
       "url": "http://www.nexusmods.com/skyrim/mods/27208",
       "flags": [],
-      "desc": "Makes bow sounds more realistic. Compatible with SSE."
+      "desc": "Makes bow sounds more realistic. <br><u>Compatible with SSE.</u>"
     },
     {
       "name": "Improved Combat Sounds SE",
@@ -656,163 +656,115 @@
   "ui_animations": [
     {
       "name": "No Spinning Death Animation",
-      "url": "http://www.nexusmods.com/skyrim/mods/17214",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/1432",
       "flags": [],
       "desc": "Removes the unrealistic spinning death animation. Ragdoll physics used instead. Will not affect killmoves."
     },
     {
       "name": "No heavy muscular walk and idle",
-      "url": "http://www.nexusmods.com/skyrim/mods/213",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/59597",
       "flags": [],
       "desc": "Makes NPCs and character stand and walk normally instead of appearing overly musclebound."
     },
     {
       "name": "Run Sprint and Jump",
-      "url": "http://www.nexusmods.com/skyrim/mods/34960",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/15881",
       "flags": [5],
       "desc": "Improves animations for run, sprint and jump (males and females)."
     },
     {
       "name": "Bowlegged jump animation Fix",
-      "url": "http://www.nexusmods.com/skyrim/mods/7416",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/2215",
       "flags": [5],
       "desc": "Fixes the bowlegged jump animations for both males and females."
     },
     {
-      "name": "Sprint and Jump with MCM",
-      "url": "https://www.nexusmods.com/skyrim/mods/48685",
-      "flags": [],
-      "desc": "Lets you jump while sprinting."
-    },
-    {
       "name": "Dragon Animation Replace",
-      "url": "http://www.nexusmods.com/skyrim/mods/60934",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/2163",
       "flags": [],
       "desc": "Dragons raise their head higher while on the ground and adds animations for attacks like dragon shout and tail slam."
     },
     {
       "name": "Faster GET UP STAND UP animation",
-      "url": "http://www.nexusmods.com/skyrim/mods/17491",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/5890",
       "flags": [],
       "desc": "Edits the stand up animation to be twice as fast while maintaining realism."
     },
     {
       "name": "Dovahkiin Relaxes Too",
-      "url": "http://www.nexusmods.com/skyrim/mods/13931",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/3899",
       "flags": [5],
       "desc": "Use one shout to activate an animation appropriate for the object you cast it upon e.g. &apos;sit&apos;, &apos;sleep&apos;, &apos;warm hands by fire&apos;, &apos;sit and eat/drink&apos; &apos;pray&apos;, &apos;lean on wall/counter&apos;, &apos;feed chicken&apos;, etc."
     },
     {
       "name": "Simple Actions",
-      "url": "https://www.nexusmods.com/skyrim/mods/58296",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/10489",
       "flags": [5],
       "desc": "Let the player perform a few simple actions anywhere: sit anywhere, meditate anywhere and sleep anywhere (with actual sleep menu)."
     },
     {
-      "name": "AE Animation",
-      "url": "http://www.nexusmods.com/skyrim/mods/34881",
-      "flags": [5],
-      "desc": "Adds 24 shouts that each play a specific animation."
-    },
-    {
-      "name": "Passtime",
-      "url": "https://www.nexusmods.com/skyrim/mods/26589",
-      "flags": [4, 5],
-      "desc": "Lightweight, scripted mod that allows you to perform idle animations at the press of a key. No spells, no activator items, no quests, just key presses."
-    },
-    {
       "name": "Sit Anywhere",
-      "url": "http://www.nexusmods.com/skyrim/mods/23179",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/39403",
       "flags": [],
       "desc": "Allows you or you followers to sit anywhere. Adds 4 lesser powers to &apos;sit cross-legged&apos;, &apos;sit on a ledge&apos;, &apos;create a cross-legged sitting spot&apos; or &apos;create a ledge sitting spot&apos;"
     },
     {
-      "name": "Dovahkiin Prayers",
-      "url": "http://www.nexusmods.com/skyrim/mods/33711",
-      "flags": [5],
-      "desc": "Adds a meditate animation when activating a shrine."
-    },
-    {
-      "name": "Pray at Shrines",
-      "url": "http://www.nexusmods.com/skyrim/mods/61223",
-      "flags": [5],
-      "desc": "Automatically plays a short praying animation when praying at a shrine."
-    },
-    {
       "name": "360 Walk and Run Plus",
-      "url": "http://www.nexusmods.com/skyrim/mods/34508",
-      "flags": [],
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/7446",
+      "flags": [5],
       "desc": "Lets your character walk in a 360-degree circle while in 3rd person with weapon sheathed i.e. character can now walk toward you instead of back stepping."
     },
     {
-      "name": "Animations",
-      "url": "http://www.nexusmods.com/skyrim/mods/51554",
-      "flags": [],
-      "desc": "Adds animations for looting containers and corpses, harvesting plants, lockpicking doors and chests, opening doors, activating levers, praying, drinking and eating potions and food, equipping armor and opening map."
+      "name": "360 Movement Behavior SE",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/33139",
+      "flags": [5],
+      "desc": "An alternative 360 movement mod for movement, jumping, and swimming. It doesn't replace any animations, it just changes the behaviour files so it should be compatible with any animation mods."
     },
     {
       "name": "Immersive Animations",
-      "url": "http://www.nexusmods.com/skyrim/mods/34950",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/4254",
       "flags": [],
       "desc": "Improves several 3rd person animations giving player a more relaxed stance when wielding weapons."
     },
     {
-      "name": "Enhanced Animation",
-      "url": "http://www.nexusmods.com/skyrim/mods/45970",
-      "flags": [],
-      "desc": "Adds 3 directional attacks for left-handed attacks, improved swimming animation, and modifies 200+ other animations including walking/running/sneaking &amp; power attack animations. Player can choose which ones to install."
-    },
-    {
       "name": "Dual Wield Improved Animation",
-      "url": "http://www.nexusmods.com/skyrim/mods/62928",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/5012",
       "flags": [],
       "desc": "Improves dual wield animations for idle, turning, running, normal attack and power attack. Makes movements more fluid."
     },
     {
       "name": "YY Anim Replacer - Mystic Knight",
-      "url": "http://www.nexusmods.com/skyrim/mods/33914",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/7446",
       "flags": [5],
       "desc": "Replaces one-handed sword and magic animations. Designed to fit a character with a sword in one hand and magic in the other."
     },
     {
       "name": "New Animation for Magic Casting",
-      "url": "http://www.nexusmods.com/skyrim/mods/28428",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/31989",
       "flags": [5],
       "desc": "Improves animations for casting magic. Note: It is safe, per the author, to delete any animation file that you don&apos;t like."
     },
     {
-      "name": "3rd Person Animation Tweak - Dual Wield Sprint",
-      "url": "http://www.nexusmods.com/skyrim/mods/1987",
-      "flags": [],
-      "desc": "A much more realistic Dual Wield Sprinting animation."
-    },
-    {
       "name": "3rd Person Dual Wield Animation Fix",
-      "url": "http://www.nexusmods.com/skyrim/mods/248",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/2425",
       "flags": [],
       "desc": "Improves the 3rd person idle turn and sprint animation while dual wielding weapons."
     },
     {
       "name": "Running with your Bow Replacer",
-      "url": "http://www.nexusmods.com/skyrim/mods/12426",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/52940",
       "flags": [5],
       "desc": "Improves 3 bow animations for RunForward, RunForwardLeft &amp; RunForwardRight."
     },
     {
       "name": "Casual bow animations",
-      "url": "http://www.nexusmods.com/skyrim/mods/1370",
-      "flags": [5],
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/12805",
+      "flags": [],
       "desc": "Improves 22 bow animations for standing idle, walking, running and turning with a bow."
     },
     {
-      "name": "3rd Person Animation Tweak - Run Forward with Bow",
-      "url": "http://www.nexusmods.com/skyrim/mods/389",
-      "flags": [5],
-      "desc": "Improves 3 bow animations for RunForward, RunForwardLeft &amp; RunForwardRight."
-    },
-    {
-      "name": "DSAMG - Dragon Soul Absorb More Glorious",
-      "url": "http://www.nexusmods.com/skyrim/mods/13850",
+      "name": "Cinematic Dragon Soul Absorbtion",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/12106",
       "flags": [],
       "desc": "Improves music and animation when absorbing a dragon soul."
     }
