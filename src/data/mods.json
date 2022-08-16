@@ -772,99 +772,57 @@
   "character_creation": [
     {
       "name": "Character Creation Overhaul",
-      "url": "http://www.nexusmods.com/skyrim/mods/21587",
-      "flags": [5],
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/2725",
+      "flags": [],
       "desc": "No more master of everything - Choose from 21 distinct classes, each with benefits/deficiencies. Dynamic skill progression (optional) - class-specific skills advance faster (click [here](http://steamcommunity.com/sharedfiles/filedetails/?id=93543416&searchtext=) for optional \"Permanent Birthsigns\" add-on). Compatible with [SkyRe](http://www.nexusmods.com/skyrim/mods/9286)"
     },
     {
-      "name": "Disparity -- Player Character Class - Race and Gender Diversity",
-      "url": "http://www.nexusmods.com/skyrim/mods/63354/",
-      "flags": [5],
-      "desc": "Allows player to choose a class and specialization. Class determine starting skills, attributes, and skill progression. Adds variety to stats and attributes to both player and NPCs for races and genders. Body weight now equals physical strength. More. MCM configurable."
-    },
-    {
-      "name": "Skills Config",
-      "url": "http://www.nexusmods.com/skyrim/mods/34307",
+      "name": "Proteus",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/62934",
       "flags": [],
-      "desc": "Customize your roleplay by setting your skills to any value between 1 and 100 via MCM. Can also turn off leveling for any skill i.e. skill level will change but you won't receive experience for the change or gain any levels."
+      "desc": "Play as multiple characters within the same game world, on the same save game file - all with their own unique appearance, perks, spells, items, and stats."
     },
     {
       "name": "ApachiiSkyHair",
-      "url": "http://www.nexusmods.com/skyrim/mods/10168",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/2014",
       "flags": [],
-      "desc": "300K+ endorsements. Adds over 200 new hairstyle options for men and women. (Use [ApachiiChopped](http://www.nexusmods.com/skyrim/mods/63428) to remove non-lorefriendly hair styles)"
+      "desc": "300K+ endorsements. Adds over 200 new hairstyle options for men and women."
     },
     {
       "name": "Beards",
-      "url": "http://www.nexusmods.com/skyrim/mods/28363",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/1067",
       "flags": [],
       "desc": "Adds braided beards (made by Bethesda but were hidden in the CK). Also improves textures of all beards (optional)"
     },
     {
       "name": "Brows",
-      "url": "https://www.nexusmods.com/skyrim/mods/30411",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/1062",
       "flags": [],
-      "desc": "A complete eyebrow retexture featuring high quality and lore-friendly choices. Designed to compliment [Beards](http://www.nexusmods.com/skyrim/mods/28363)."
+      "desc": "A complete eyebrow retexture featuring high quality and lore-friendly choices. Designed to compliment [Beards](https://www.nexusmods.com/skyrimspecialedition/mods/1067)."
     },
     {
       "name": "Bald Head",
-      "url": "http://www.nexusmods.com/skyrim/mods/11140",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/4277",
       "flags": [],
       "desc": "Adds a bald head to the hair options."
     },
     {
-      "name": "All hairs for all non-beast races",
-      "url": "http://www.nexusmods.com/skyrim/mods/8074/",
-      "flags": [],
-      "desc": "Makes all hair options available to all races. i.e. choose an Orc hair style for your human Nord. (see image for example)"
-    },
-    {
       "name": "RaceMenu",
-      "url": "http://www.nexusmods.com/skyrim/mods/29624/",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/19080",
       "flags": [4, 5],
-      "desc": "300K+ endorsements. A complete overhaul of the character creation interface. Adds many more character customization options. Includes [ShowRaceMenu Precache Killer](http://www.nexusmods.com/skyrim/mods/33526)."
+      "desc": "300K+ endorsements. A complete overhaul of the character creation interface. Adds many more character customization options."
     },
     {
       "name": "Enhanced Character Edit",
-      "url": "http://www.nexusmods.com/skyrim/mods/12951",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/12302",
       "flags": [4, 5],
       "desc": "Adds many new sliders to character creation menu. Adds new options for lips, eyes, eyebrows, etc. Works with any body mesh. Includes a new race (pretty female)."
     },
     {
-      "name": "Expanded Skyrim Presets",
-      "url": "http://www.nexusmods.com/skyrim/mods/15963",
-      "flags": [],
-      "desc": "Adds hundreds of facial presets to the character creation screen."
-    },
-    {
-      "name": "Ultimate NPC Face Unlocker",
-      "url": "http://www.nexusmods.com/skyrim/mods/21488",
-      "flags": [],
-      "desc": "Adds all of the NPC faces and bodies (over 700) to the list of presets in the character creation screen."
-    },
-    {
-      "name": "Extended Slider Colors",
-      "url": "http://www.nexusmods.com/skyrim/mods/6923",
-      "flags": [],
-      "desc": "Significantly extends the choice of colors available for hair, eyes, etc. Incompatable with any racial overhauls or race editing mods."
-    },
-    {
-      "name": "Bandit Eyepatch",
-      "url": "http://www.nexusmods.com/skyrim/mods/1874",
-      "flags": [],
-      "desc": "Adds an eye patch. Craft it at a forge or buy it at Grelka's shop in Riften. \\*\\* Use [Sharlikran's Compatibility Patch](http://www.nexusmods.com/skyrim/mods/26230) instead (original mod not required) \\*\\*"
-    },
-    {
       "name": "Player Size Adjuster and 1st Person Camera Height Fix",
-      "url": "http://www.nexusmods.com/skyrim/mods/32155",
+      "url": "https://www.nexusmods.com/skyrimspecialedition/mods/14515",
       "flags": [4],
       "desc": "Use SkyUI MCM to adjust your character's height as well as your height when transformed into a werewolf or Vampire Lord. It will automatically adjust your 1st person height to match. Optionally can adjust run speed and jump height based on height."
-    },
-    {
-      "name": "Beelzeboss character traits",
-      "url": "http://www.nexusmods.com/skyrim/mods/24794",
-      "flags": [4],
-      "desc": "Let's you add positive and negative traits when making a new character"
     }
   ],
   "alternate_starts": [
